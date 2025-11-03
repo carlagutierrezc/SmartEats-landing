@@ -13,8 +13,8 @@ La página busca resolver dolores comunes como:
 
 SmartEats ofrece:
 
-Guía gratuita “7 días de energía” (suscripción por email).
+* Guía gratuita “7 días de energía” (suscripción por email).
 
-Recetas rápidas y snacks inteligentes.
+* Recetas rápidas y snacks inteligentes.
 
-Tips prácticos para hidratación, horarios y balance de macronutrientes.
+* Tips prácticos para hidratación, horarios y balance de macronutrientes.
